@@ -10,7 +10,7 @@ public class grade {
 		int grad=sc.nextInt();
 		System.out.println("점수를 입력하세요=>");  
 		int score=sc.nextInt();
-		
+		 
 		if(score>=60) {
 			
 			if(grad !=4)
